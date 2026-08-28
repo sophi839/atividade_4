@@ -16,7 +16,7 @@ programa {
     escreva("")
 
     } senao {
-
+    escreva("")
     }
 
   }
