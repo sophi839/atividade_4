@@ -11,7 +11,13 @@ programa {
 
     escreva("informe o terceiro numero:")
     leia(terceiro_numero)
-
     
+    se{
+
+
+    } senao {
+
+    }
+
   }
 }
