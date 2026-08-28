@@ -13,7 +13,7 @@ programa {
     leia(terceiro_numero)
     
     se{
-
+    escreva("")
 
     } senao {
 
